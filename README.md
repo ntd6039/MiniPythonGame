@@ -1,2 +1,4 @@
 # MiniPythonGame
-A game in python based on a simplified version of pokemon allowing the user to play against a computer 
+A game in python based on a simplified version of pokemon allowing the user to play against a computer.
+
+Check Figma for GUI.
